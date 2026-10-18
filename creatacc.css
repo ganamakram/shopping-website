@@ -1,0 +1,43 @@
+ body{
+    background-color: rgb(247, 183, 241);
+ }
+ div{
+    text-align: center;
+    font-size: 35px;
+
+}
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+ 
+   #nav{
+    text-align: center;
+    font-size: 150px;
+}
+#form{
+      background-image: url(img/AI\ Will\ Dominate\ Every\ Online\ Store\ in\ 2026.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center;
+    text-align: center;
+    
+}
+h1{
+     font-size: 100px;
+     text-align: center;
+     color:blueviolet;
+ }
+ div input{
+    font-size: 20px;
+ }
+ button{
+    text-decoration: none;
+    background-color:rgb(223, 152, 230);
+    font-size: 30px;
+    border-radius: 8px;
+}
+i{
+    color:red;
+}

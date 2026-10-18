@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+ 
+   #nav{
+    text-align: center;
+    font-size: 150px;
+}
+#form{
+      background-image: url(img/AI\ Will\ Dominate\ Every\ Online\ Store\ in\ 2026.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center;
+    text-align: center;
+    
+}
+h1{
+     font-size: 100px;
+     text-align: center;
+     color:blueviolet;
+ }
+ .color h1{
+   color: rgb(197, 18, 200);
+ }
+ .color p{
+   text-align: center;
+   font-size: larger;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .main{
+    border: 3px solid  black;
+    padding: 100px;
+   margin: 100px;
+    text-align: center;
+ height: 600px;
+ width: 600px;
+ border-radius: 8px;
+ font-size: 30px;
+  background-color: rgb(238, 210, 174);
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ .place{
+   display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+ }
+ button{
+    text-decoration: none;
+    background-color: beige;
+    font-size: 30px;
+    border-radius: 8px;
+   }
+   body{
+    background-color: rgb(247, 183, 241);
+ }
+ .final{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
